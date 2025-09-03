@@ -31,6 +31,16 @@ A cosmic-themed, modern React app to explore, host, and RSVP to local events. Cr
 
 ![Home Page](ScreenShots/home.png)
 
+
+### Create Event Page
+
+## 🖼️ Screenshots
+
+### Home Page
+
+![Home Page](ScreenShots/home.png)
+
 ### Create Event Page
 
 ![Create Event](ScreenShots/CreateEvent.png)
+
